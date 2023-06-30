@@ -1,0 +1,2 @@
+[Fri Jun 30 21:50:35 2023] [WARNING] Hello
+[Fri Jun 30 21:50:35 2023] [ERROR] goodbye

@@ -1,0 +1,4 @@
+[Fri Jun 30 22:27:35 2023] [INFO] File Info Message
+[Fri Jun 30 22:27:35 2023] [DEBUG] File Debug Message
+[Fri Jun 30 22:27:35 2023] [WARNING] File Warning Message
+[Fri Jun 30 22:27:35 2023] [ERROR] File Error Message
